@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HunterTheCraft-OFICIAL/akamaru-md/issues"
   },
-  "homepage": "https://github.com/HunterTheCraft-OFICIAL/akamaru-md#readme"
+  "homepage": "https://github.com/HunterTheCraft-OFICIAL/akamaru-md#readme",
+  "dependencies": {
+    "baileys": "github:WhiskeySockets/Baileys"
+  }
 }
