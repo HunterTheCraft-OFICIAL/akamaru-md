@@ -1,0 +1,24 @@
+{
+  "name": "akamaru-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HunterTheCraft-OFICIAL",
+  "license": "ISC",
+  "description": "(Em Breve…)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterTheCraft-OFICIAL/akamaru-md.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HunterTheCraft-OFICIAL/akamaru-md/issues"
+  },
+  "homepage": "https://github.com/HunterTheCraft-OFICIAL/akamaru-md#readme",
+  "dependencies": {
+    "baileys": "github:WhiskeySockets/Baileys"
+    
+  }
+}
