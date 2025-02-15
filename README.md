@@ -14,3 +14,12 @@
 
 ###### Teste (Em Breve…)
 
+
+No Branch Main tem a Biblioteca Inteira de forma pronta para uso: 
+O total da Biblioteca está pesando 235,90MB
+
+
+vamos criar um Branch com a Biblioteca em compactada em Zip pesando 66,27MB
+
+
+dependendo da situação vamos remover algumas tecnologias se necessário
