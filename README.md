@@ -21,5 +21,7 @@ O total da Biblioteca está pesando 235,90MB
 
 vamos criar um Branch com a Biblioteca em compactada em Zip pesando 66,27MB
 
+vamos enviar esse arquivo com isso git lfs
+
 
 dependendo da situação vamos remover algumas tecnologias se necessário
